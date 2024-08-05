@@ -6,13 +6,13 @@ const CONFIG = {
     title: 'Will you be my girlfriend?',
     yesBtn: 'Yess 🥺',
     noBtn: 'No :3',
-    question: 'Glad to know you feel the same way 😘😘 \n Now.. tell me why you love me ?',
+    question: 'Glad to know you feel the same way 😘😘 \n Now.. tell me why?',
     sendBtn: 'Send',
-    reply: 'Cuz what\'s there to not love about you? You\'re so cute, funny, and smart. You\'re the best thing that\'s ever happened to me. I love you so much 😘😘😘',
+    reply: 'Cuz what\'s there to not love about you? You\'re so cute, funny, and smart. You\'re the best thing that\'s ever happened to me. 😘😘😘',
     messPop: 'I know. I\'m just that good 😎😎😎',
     messDesc: 'Now you\'re my girlfriend 👉👈',
     btnAccept: 'Okiiiiieeee <3',
     // make it wait a few seconds before redirecting
     
-    redirect: 'https://youtu.be/Aki05PCJWtE?si=AWbPd4O4XbcWjyP8',
+    redirect: 'https://youtu.be/XfMBdq5iFnw?si=i9ZfYD7EZ3TIfyMQ&t=23',
 }

@@ -14,5 +14,5 @@ const CONFIG = {
     btnAccept: 'Okiiiiieeee <3',
     // make it wait a few seconds before redirecting
     
-    redirect: 'https://youtu.be/XfMBdq5iFnw?si=i9ZfYD7EZ3TIfyMQ&t=23',
+    redirect: 'https://youtu.be/LDY_XyxBu8A?si=358th6nFk9vKotD1&t=39',
 }
